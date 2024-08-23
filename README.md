@@ -72,15 +72,3 @@
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=alsesn&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
