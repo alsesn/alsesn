@@ -15,7 +15,6 @@
 
 
 ## About me  
-<table><tr><td valign="top" width="50%">
 
 - 👀I am Java Developer  
   
@@ -23,13 +22,6 @@
 - 🌱 Currently studying: Spring Boot, Hibernate, microservices.  
 
 - ✉️  You can contact me at [Gmail](mailto:rostislavsusak747@gmail.com) and [Telegram](t.me/alsesn)
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
