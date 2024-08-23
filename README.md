@@ -15,7 +15,9 @@
 - 👀I am Java Developer  
   
 
-- 🌱 Currently studying: Spring Boot, Hibernate, microservices.  
+- 🌱 Currently studying: Spring Boot, Hibernate, microservices, and deepening my knowledge in cloud computing..
+  
+- 🚀 I have experience in both backend and frontend development, with a strong focus on delivering clean, maintainable code.
 
 - ✉️  You can contact me at [Gmail](mailto:rostislavsusak747@gmail.com) and [Telegram](t.me/alsesn)
 
