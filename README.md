@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rostislav!  
+## Hey 👋, I'm Rostyslav!  
   
 
 <div align="center">
