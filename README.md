@@ -31,34 +31,28 @@ I am a dedicated **Java Developer** with practical experience in designing and i
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Core Technologies
 
-A focused overview of the core technologies I utilize for backend and infrastructure development:
+A highly focused and structured overview of the essential technologies I utilize:
 
+### ⚙️ Backend & Frameworks
 <div align="center">
-    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" /></a>
-    <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="35" /></a>
-    <a href="https://docs.spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="35" /></a>
-    <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/hibernate.svg" alt="Hibernate" height="35" /></a>
-    <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/maven-original-wordmark.svg" alt="Maven" height="35" /></a>
-    <a href="https://gradle.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gradle-icon.svg" alt="Gradle" height="35" /></a>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,gradle" />
 </div>
 
+### 💾 Databases
 <div align="center">
-    <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>
-    <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="35" /></a>
-    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices.svg" alt="AWS" height="35" /></a>
-    <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="35" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="35" /></a>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </div>
 
+### ☁️ DevOps & Cloud
 <div align="center">
-    <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="35" /></a>
-    <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="35" /></a>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,bash" />
+</div>
+
+### 🗄️ Version Control
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </div>
 
 <br>
@@ -70,11 +64,11 @@ A focused overview of the core technologies I utilize for backend and infrastruc
 Showcasing my activity and contributions on GitHub:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alsesn&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rostyslav's GitHub Stats" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alsesn&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rostyslav's GitHub Stats" style="margin: 10px;" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsesn&layout=compact&langs_count=6&theme=buefy&hide_border=true" alt="Top Languages" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsesn&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" style="margin: 10px;" />
 </div>
 
 <br>
