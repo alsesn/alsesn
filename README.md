@@ -1,53 +1,80 @@
-## Hey 👋, I'm Rostyslav!  
-  
+## 💻 Hey there, I'm Rostyslav! 👋
 
 <div align="center">
-	<a href="https://github.com/alsesn" target="_blank">
-		<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-	</a>
-	<a href="https://gitlab.com/alsesn" target="_blank">
-		<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-	</a>  
-</div>  
-  
-## About me  
+    <a href="https://github.com/alsesn" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://gitlab.com/alsesn" target="_blank">
+        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:rostislavsusak747@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+    </a>
+    <a href="t.me/alsesn" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" />
+    </a>
+</div>
 
-- 👀I am Java Developer  
-  
+<br>
 
-- 🌱 Currently studying: Spring Boot, Hibernate, microservices, and deepening my knowledge in cloud computing..
-  
-- 🚀 I have experience in both backend and frontend development, with a strong focus on delivering clean, maintainable code.
+---
 
-- ✉️  You can contact me at [Gmail](mailto:rostislavsusak747@gmail.com) and [Telegram](t.me/alsesn)
+## 🚀 About Me
 
-## Languages and Tools  
-<div align="center">  
-	<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-	<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
-	<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-	<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-	<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-	<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-</div>  
+I am a dedicated **Java Developer** with practical experience in designing and implementing backend services. I am focused on building highly maintainable, efficient, and scalable applications using modern engineering practices.
 
-<div align="center">  
-	<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-	<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-	<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-	<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
-	<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-</div>  
+* **Primary Focus:** Developing robust, high-performance backend solutions using **Java/Kotlin**, specializing in **Spring Boot** and microservices architecture.
+* **Currently Deepening Knowledge In:** **Spring Data JPA/Hibernate**, distributed systems, and modern **Cloud Computing** technologies (AWS/GCP).
+* **Experience:** Strong foundation in both application development and foundational DevOps practices.
 
-<div align="center">  
-	<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-	<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-	<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-	<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-</div>  
+<br>
 
-<div align="center">  
-	<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-	<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-	<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-</div>  
+---
+
+## 🛠️ Languages & Tools
+
+A focused overview of the core technologies I utilize for backend and infrastructure development:
+
+<div align="center">
+    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" /></a>
+    <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="35" /></a>
+    <a href="https://docs.spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="35" /></a>
+    <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/hibernate.svg" alt="Hibernate" height="35" /></a>
+    <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/maven-original-wordmark.svg" alt="Maven" height="35" /></a>
+    <a href="https://gradle.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gradle-icon.svg" alt="Gradle" height="35" /></a>
+</div>
+
+<div align="center">
+    <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>
+    <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="35" /></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices.svg" alt="AWS" height="35" /></a>
+    <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="35" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="35" /></a>
+</div>
+
+<div align="center">
+    <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>
+    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="GitHub" height="35" /></a>
+    <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="35" /></a>
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Stats
+
+Showcasing my activity and contributions on GitHub:
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alsesn&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rostyslav's GitHub Stats" style="margin: 10px;" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsesn&layout=compact&langs_count=6&theme=buefy&hide_border=true" alt="Top Languages" style="margin: 10px;" />
+</div>
+
+<br>
